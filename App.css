@@ -1,0 +1,63 @@
+.body{
+    background-color: rgb(0, 255, 170);
+}
+.board{
+    margin: 10% auto;
+    height: max-content;
+    padding: 20px;
+    width: 50%;
+    border: 1px solid black;
+    text-align: center;
+    background: transparent 2px;
+} 
+.question{
+    margin-top: 20px;
+    border: 2px solid black;
+    height: max-content;
+    padding: 30px 30px 30px 30px;
+}
+.options{
+    margin:40px auto;
+    text-align: left;
+    list-style: none;
+}
+/* body{
+    background-color: #cfffca;
+    font-family:"Edu AU VIC WA NT Dots", cursive; ;
+}
+.board{
+    margin: 10% auto;
+    height: max-content;
+    padding: 20px;
+    width: 50%;
+    border: 1px solid black;
+    text-align: center;
+    background: transparent 2px;
+}    
+.question{
+    margin-top: 20px;
+    border: 2px solid black;
+    height: max-content;
+    padding: 30px 30px 30px 30px;
+}
+.options{
+    margin:40px auto;
+    text-align: left;
+
+}
+button{
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: rgb(104, 159, 104);
+    color: white;
+    border: none;
+    cursor: pointer;
+
+}
+.btns{
+    justify-content: space-between;
+    display: flex;
+    padding-left:40px ;
+    padding-right: 40px;
+    margin: 50px auto;
+} */
